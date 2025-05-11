@@ -3,12 +3,12 @@
 I'm a curious and driven developer who started in QA with Tricentis Tosca and SpecFlow, and transitioned into .NET development in 2022. 
 I enjoy writing clean, test-driven C# code and love exploring new technologies along the way.
 
-**📫 How to reach me:**
+📫 How to reach me:**
 
     Bluesky: [@MerelyEva](https://bsky.app/profile/merelyeva.bsky.social 'Visit me on Bluesky')
     LinkedIn: [Eva Ditzelmüller](https://www.linkedin.com/in/eva-ditzelm%C3%BCller/ 'Visit me on LinkedIn')
     
-**💬 Channels**
+💬 Channels**
 
     Twitch: [FlashOWare](https://www.twitch.tv/flashoware 'Join me at 2Code^!2Code')
     YouTube: [FlashOWare](https://www.youtube.com/@FlashOWare 'Join me at 2Code^!2Code')
