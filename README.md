@@ -8,14 +8,14 @@ I enjoy writing clean, test-driven C# code and love exploring new technologies a
 - Bluesky: [@MerelyEva](https://bsky.app/profile/merelyeva.bsky.social 'Visit me on Bluesky')  
 - LinkedIn: [Eva Ditzelmüller](https://www.linkedin.com/in/eva-ditzelm%C3%BCller/ 'Visit me on LinkedIn')
 
-**💬 Channels**
+**📺 Where I stream and share**
 
 - Twitch: [FlashOWare](https://www.twitch.tv/flashoware 'Join me at 2Code^!2Code')  
 - YouTube: [FlashOWare](https://www.youtube.com/@FlashOWare 'Join me at 2Code^!2Code')
 
 ⚡ Brainy quote from my favourite play:
 > "We know what we are, but know not what we may be."  
-> - *William Shakespeare, Hamlet*
+> &nbsp;- *William Shakespeare, Hamlet*
 
 
     
